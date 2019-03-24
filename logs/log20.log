@@ -1,0 +1,7 @@
+2019-03-15T18:53:40.433Z - [32minfo[39m: /api/agent/create POST
+ body: {"name":"Dasha","email":"dasha@mail.ru","tel":"1235683","officeId":4}
+2019-03-15T18:54:31.147Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"house","price":2323,"currency":"BYN","location":"dasdsa 332 23","agentId":1}
+2019-03-15T18:55:20.388Z - [32minfo[39m: /api/agent/properties/1 GET
+2019-03-15T18:55:47.447Z - [32minfo[39m: /api/agent/properties/4 GET
+2019-03-15T18:55:50.660Z - [32minfo[39m: /api/agent/properties/3 GET

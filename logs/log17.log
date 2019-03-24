@@ -1,0 +1,12 @@
+2019-02-23T08:06:10.187Z - [32minfo[39m: /api/property/debind POST
+ body: {"id":6}
+2019-02-23T08:06:36.339Z - [32minfo[39m: /api/property/bind POST
+ body: {"id":6,"agentId":1}
+2019-02-23T08:06:55.861Z - [32minfo[39m: /api/property/delete POST
+ body: {"id":6}
+2019-02-23T08:07:21.155Z - [32minfo[39m: /api/agent/properties/1 POST
+ body: {"id":1}
+2019-02-23T08:07:27.538Z - [32minfo[39m: /api/agent/property/1 POST
+ body: {"id":1}
+2019-02-23T08:07:49.495Z - [32minfo[39m: /api/agent/properties/1 POST
+ body: {"id":1}

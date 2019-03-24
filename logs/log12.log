@@ -1,0 +1,8 @@
+2019-02-23T07:18:23.563Z - [32minfo[39m: /api/property/ GET
+ body: {"agentId":3}
+2019-02-23T07:19:17.559Z - [32minfo[39m: /api/property/bind POST
+ body: {"id":3,"agentId":3}
+2019-02-23T07:20:06.014Z - [32minfo[39m: /api/property/ GET
+ body: {"id":3,"agentId":3}
+2019-02-23T07:20:38.626Z - [32minfo[39m: /api/property/bind POST
+ body: {"id":3,"heading":"flat","price":654,"currency":"BYN","location":"dasdsa 332 23","createdAt":"2019-02-23T07:13:55.000Z","updatedAt":"2019-02-23T07:17:39.000Z","deletedAt":null,"agentId":3}

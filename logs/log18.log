@@ -1,0 +1,7 @@
+2019-02-23T08:08:04.301Z - [32minfo[39m: /api/agent/properties/1 GET
+2019-03-15T18:47:38.578Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"Office1","website":"office1.com","address":"nezavisimosty 123 23"}
+2019-03-15T18:48:11.993Z - [32minfo[39m: /api/office/readall GET
+ body: {"title":"Office1","website":"office1.com","address":"nezavisimosty 123 23"}
+2019-03-15T18:48:22.431Z - [32minfo[39m: /api/office/readall GET
+ body: {"title":"Office1","website":"office1.com","address":"nezavisimosty 123 23"}

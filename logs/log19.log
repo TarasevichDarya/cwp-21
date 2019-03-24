@@ -1,0 +1,8 @@
+2019-03-15T18:48:38.897Z - [32minfo[39m: /api/office/read/4 GET
+ body: {"title":"Office1","website":"office1.com","address":"nezavisimosty 123 23"}
+2019-03-15T18:48:46.935Z - [32minfo[39m: /api/office/read:4 GET
+ body: {"title":"Office1","website":"office1.com","address":"nezavisimosty 123 23"}
+2019-03-15T18:50:47.597Z - [32minfo[39m: /api/offices/readall GET
+ body: {"title":"Office1","website":"office1.com","address":"nezavisimosty 123 23"}
+2019-03-15T18:50:52.305Z - [32minfo[39m: /api/offices/read GET
+ body: {"title":"Office1","website":"office1.com","address":"nezavisimosty 123 23"}

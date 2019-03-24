@@ -1,0 +1,10 @@
+2018-02-16T06:23:59.015Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"asdsad","price":123,"currency":"EUR","location":"sada"}
+2018-02-16T06:25:47.747Z - [32minfo[39m: /api/agent/bind POST
+ body: {"id":3,"newOfficeId":10}
+2018-02-16T06:26:02.417Z - [32minfo[39m: /api/agent/bind POST
+ body: {"id":4,"newOfficeId":10}
+2018-02-16T06:26:30.198Z - [32minfo[39m: /api/office/delete POST
+ body: {"id":10,"newOfficeId":10}
+2018-02-16T06:29:33.297Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"dgfhjkl","price":456123,"currency":"EUR","location":"asdfgasd"}

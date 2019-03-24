@@ -1,0 +1,8 @@
+2019-02-23T07:03:29.615Z - [32minfo[39m: /api/offices/create POST
+ body: {"title":"Office2","website":"office2.com","address":"nezavisimosty 1 1"}
+2019-02-23T07:03:42.012Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"Office2","website":"office2.com","address":"nezavisimosty 1 1"}
+2019-02-23T07:04:06.454Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"Office3","website":"office3.com","address":"pobedy 1 1"}
+2019-02-23T07:04:40.048Z - [32minfo[39m: /api/office/read GET
+ body: {"id":1}

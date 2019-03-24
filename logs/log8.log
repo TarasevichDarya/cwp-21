@@ -1,0 +1,9 @@
+2019-02-15T21:43:22.309Z - [32minfo[39m: /api/agent/debind POST
+ body: {"id":2,"newOfficeId":2}
+2019-02-15T21:45:19.192Z - [32minfo[39m: /api/office/readAll GET
+2019-02-15T21:46:01.755Z - [32minfo[39m: /api/office GET
+2019-02-15T21:46:37.064Z - [32minfo[39m: /api/agent GET
+2019-02-15T21:47:15.167Z - [32minfo[39m: /api/agent/properties/1 GET
+2019-02-23T07:06:04.591Z - [32minfo[39m: /api/office/readall GET
+2019-02-23T07:10:05.023Z - [32minfo[39m: /api/office/ GET
+2019-02-23T07:10:38.970Z - [32minfo[39m: /api/office/ GET

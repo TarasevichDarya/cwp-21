@@ -1,0 +1,10 @@
+2019-02-15T22:04:20.147Z - [32minfo[39m: /api/agent GET
+2019-02-15T22:04:35.491Z - [32minfo[39m: /api/agent/properties/1 GET
+2019-02-15T22:05:59.352Z - [32minfo[39m: /api/agent/bind POST
+ body: {"id":2,"newOfficeId":1}
+2019-02-15T22:07:40.418Z - [32minfo[39m: /api/agent/properties/1 GET
+2019-02-15T22:07:58.977Z - [32minfo[39m: /api/agent/properties/1 GET
+2019-02-15T22:08:11.245Z - [32minfo[39m: /api/agent/properties/1 GET
+2019-02-16T07:31:59.652Z - [32minfo[39m: /api/agent/properties/1 GET
+2019-02-20T05:50:06.770Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"Office1","website":"office1.com","address":"nezavisimosty 123 23"}

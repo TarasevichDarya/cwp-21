@@ -1,0 +1,8 @@
+2019-02-23T07:11:09.480Z - [32minfo[39m: /api/agent/create POST
+ body: {"name":"Dasha","email":"dasha@mail.ru","tel":"1235683","officeId":1}
+2019-02-23T07:11:37.326Z - [32minfo[39m: /api/agent/create POST
+ body: {"name":"Evgenii","email":"evg@mail.ru","tel":"1268598","officeId":2}
+2019-02-23T07:11:56.749Z - [32minfo[39m: /api/agent/create POST
+ body: {"name":"Nikita","email":"nik@mail.ru","tel":"1268598","officeId":3}
+2019-02-23T07:12:30.121Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"house","price":2323,"currency":"BYN","location":"dasdsa 332 23","agentId":1}

@@ -1,0 +1,10 @@
+2019-02-15T21:33:17.366Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"flat","price":43,"currency":"EUR","location":"mogilew","agentId":2}
+2019-02-15T21:40:13.860Z - [32minfo[39m: /api/agent/bind POST
+ body: {"id":3,"newOfficeId":10}
+2019-02-15T21:41:26.458Z - [32minfo[39m: /api/agent/bind POST
+ body: {"id":3,"newOfficeId":2}
+2019-02-15T21:41:37.744Z - [32minfo[39m: /api/agent/bind POST
+ body: {"id":2,"newOfficeId":2}
+2019-02-15T21:42:02.277Z - [32minfo[39m: /api/agent/unbind POST
+ body: {"id":2,"newOfficeId":2}

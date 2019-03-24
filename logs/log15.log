@@ -1,0 +1,8 @@
+2019-02-23T07:42:04.452Z - [32minfo[39m: /api/property/bind POST
+ body: {"id":3,"agentId":"fdhj"}
+2019-02-23T07:42:40.745Z - [32minfo[39m: /api/property/ GET
+ body: {"title":"Office1","website":"office1.com","address":"nezavisimosty 123 23"}
+2019-02-23T07:54:30.092Z - [32minfo[39m: /api/property/ GET
+ body: {"title":"Office1","website":"office1.com","address":"nezavisimosty 123 23"}
+2019-02-23T07:55:07.483Z - [32minfo[39m: /api/property/ GET
+ body: {"title":"Office1","website":"office1.com","address":"nezavisimosty 123 23"}

@@ -1,0 +1,9 @@
+2019-02-15T21:26:43.605Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"office2","website":"website2","address":"brest"}
+2019-02-15T21:27:08.469Z - [32minfo[39m: /api/agent/create POST
+ body: {"name":"andron","email":"and@gmail.com","tel":"123442","officeId":2}
+2019-02-15T21:27:27.204Z - [32minfo[39m: /api/agent/create POST
+ body: {"name":"vector","email":"vec@gmail.com","tel":"123442","officeId":1}
+2019-02-15T21:29:24.097Z - [32minfo[39m: /api/agent/1 GET
+2019-02-15T21:32:50.180Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"flat","price":43,"currency":"EUR","location":"minsk","agentId":1}

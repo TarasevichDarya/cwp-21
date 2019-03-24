@@ -1,0 +1,10 @@
+2019-03-20T05:54:42.104Z - [32minfo[39m: /api/agent/properties/1 GET
+2019-03-20T05:54:50.957Z - [32minfo[39m: /api/agent/properties/2 GET
+2019-03-20T05:55:20.595Z - [32minfo[39m: /api/agent/debind/2 POST
+2019-03-20T05:55:27.462Z - [32minfo[39m: /api/agent/debind POST
+2019-03-20T05:55:46.724Z - [32minfo[39m: /api/agent/debind/1 POST
+2019-03-20T05:55:57.151Z - [32minfo[39m: /api/agent/1/debind POST
+2019-03-20T05:56:55.821Z - [32minfo[39m: /api/agent/debind POST
+ body: {"id":4}
+2019-03-20T05:57:20.124Z - [32minfo[39m: /api/agent/debind POST
+ body: {"id":4,"newOfficeId":4}

@@ -1,0 +1,10 @@
+2018-02-16T06:30:37.515Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"dgfhjkl","price":456123,"currency":"EUR","location":"asdfgasd","agentId":3}
+2018-02-16T06:31:13.023Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"hweqoje;qwopql,eqw;l","price":456123,"currency":"EUR","location":"asdfgasd","agentId":3}
+2019-02-15T21:08:48.352Z - [32minfo[39m: /api/agent/?id=1 GET
+ query: {"id":"1"}
+2019-02-15T21:09:30.738Z - [32minfo[39m: /api/agent?id=1 GET
+ query: {"id":"1"}
+2019-02-15T21:25:45.911Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"offiec1","website":"website1","address":"minsk"}

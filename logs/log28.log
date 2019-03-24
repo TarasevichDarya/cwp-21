@@ -1,0 +1,6 @@
+2019-03-20T06:10:16.022Z - [32minfo[39m: /api/agent/bind POST
+ body: {"id":1,"newOfficeId":3}
+2019-03-20T06:10:35.726Z - [32minfo[39m: /api/agent/debind POST
+ body: {"id":2}
+2019-03-20T06:10:51.294Z - [32minfo[39m: /api/agent/bind POST
+ body: {"id":2,"newOfficeId":3}

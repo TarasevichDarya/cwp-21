@@ -1,0 +1,11 @@
+2019-02-23T07:35:05.496Z - [32minfo[39m: /api/agent/ GET
+2019-02-23T07:35:51.871Z - [32minfo[39m: /api/property/bind POST
+ body: {"id":3,"agentId":3}
+2019-02-23T07:39:04.102Z - [32minfo[39m: /api/property/bind POST
+ body: {"id":3,"agentId":3}
+2019-02-23T07:40:39.313Z - [32minfo[39m: /api/property/debind POST
+ body: {"id":3}
+2019-02-23T07:40:59.003Z - [32minfo[39m: /api/property/debind POST
+ body: {"id":3,"agentId":"fdhj"}
+2019-02-23T07:41:12.843Z - [32minfo[39m: /api/property/bind POST
+ body: {"id":3,"agentId":"fdhj"}

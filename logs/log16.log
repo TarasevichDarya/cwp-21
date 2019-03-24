@@ -1,0 +1,9 @@
+2019-02-23T08:03:46.857Z - [32minfo[39m: /api/property/ GET
+ body: {"title":"Office1","website":"office1.com","address":"nezavisimosty 123 23"}
+2019-02-23T08:03:57.807Z - [32minfo[39m: /api/property/ GET
+ body: {"title":"Office1","website":"office1.com","address":"nezavisimosty 123 23"}
+2019-02-23T08:03:57.808Z - [32minfo[39m: /api/property/ GET FROM CACHE
+2019-02-23T08:04:26.503Z - [32minfo[39m: /api/property/ GET
+2019-02-23T08:04:35.742Z - [32minfo[39m: /api/property/1 GET
+2019-02-23T08:05:41.916Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"flat","price":2323,"currency":"BYN","location":"dgfff 332 23","agentId":1}

@@ -1,0 +1,9 @@
+2018-02-15T19:05:05.048Z - [32minfo[39m: /api/agent/4 GET FROM CACHE
+2018-02-16T05:45:42.977Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"qwe 1","website":"website 1","address":"qwe 1"}
+2018-02-16T06:21:38.541Z - [32minfo[39m: /api/office/create POST
+ body: {"title":"qweqwe1","website":"website 1","address":"qwe 1"}
+2018-02-16T06:22:21.848Z - [32minfo[39m: /api/agent/create POST
+ body: {"name":"sadbaskn","email":"em1q.q","tel":"123242","officeId":2}
+2018-02-16T06:22:38.078Z - [32minfo[39m: /api/agent/create POST
+ body: {"name":"sadbaskn","email":"em1@q.q","tel":"123242","officeId":2}

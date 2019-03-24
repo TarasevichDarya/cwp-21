@@ -1,0 +1,8 @@
+2019-02-23T07:12:49.499Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"flat","price":234,"currency":"EUR","location":"dasdsa 332 23","agentId":2}
+2019-02-23T07:13:32.092Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"flat","price":654,"currency":"BYfdf","location":"dasdsa 332 23","agentId":3}
+2019-02-23T07:13:55.407Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"flat","price":654,"currency":"BYN","location":"dasdsa 332 23","agentId":3}
+2019-02-23T07:14:07.200Z - [32minfo[39m: /api/property/create POST
+ body: {"heading":"flat","price":654,"currency":"BYNmkm","location":"dasdsa 332 23","agentId":3}
